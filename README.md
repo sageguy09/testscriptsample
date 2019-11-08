@@ -1,4 +1,4 @@
-Upon cloning, run npm install to install dependencies. 
+Upon cloning of this repo, run **npm install** to install package dependencies. 
 
 To run test, run **NPM run Test**.
 If the test returns 1 of 1 passed, hit 'a' to run all test scripts in the directory. 
